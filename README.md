@@ -1,4 +1,6 @@
-## Hello World
+## Hello
+I am Michael, a student at Seattle Academy and a member of FRC team 8032.
+
 https://michaellesirge.github.io/
 
 <!--
