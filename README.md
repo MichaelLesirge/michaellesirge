@@ -1,5 +1,5 @@
 ## Hello
-Hi, I'm Michael, a student at Seattle Academy and a member of FRC team 8032.
+Hi, I'm Michael, a student at Northeastern University.
 
 https://michaellesirge.github.io/
 
